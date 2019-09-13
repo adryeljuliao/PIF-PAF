@@ -137,7 +137,7 @@ public class Jogo {
 		if (cartasDescartadas[0] != null) {
 
 			System.out.println("1 - Obter carta do baralho");
-			System.out.println("2 - Obter carta do resto do baralho");
+			System.out.println("2 - Obter carta do baralho de descartes");
 			op = entrada.nextInt();
 			System.out.println("-------------------------------------------------------");
 
